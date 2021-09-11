@@ -1,5 +1,6 @@
 = DISEC - Disarment and International Security Committee
 :toc: top
+:toclevels: 5
 
 == Preparing a position paper for sweden for MUNOG 2021
 
