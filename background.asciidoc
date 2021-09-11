@@ -26,12 +26,21 @@ First comittee
 .hamburg MUN DISEC Prep 2018 see topic b pages 9-14 (plus links)
 link:http://hammun.de/wp-content/uploads/2018/10/DISEC-Study-Guide-Final-Version.pdf[^]
 
+.MUNUC prep on DISEC Cyber 2013 pages 26-39 plus bibliography
+link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecurity
+
+.SEMMUNA DISEC baground paper 4 pages
+link:http://www.semmuna.org/uploads/2/4/2/3/24230689/30_-_disec_-_cyber_security.pdf[^]
+
 .UNIDIR DISEC background and good information
 link:https://www.unidir.org/files/publications/pdfs/the-united-nations-cyberspace-and-international-peace-and-security-en-691.pdf[^]
 
+.Armscontrol org disec stuff
+link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecurity[^]
+
 
 [appendix]
-= Abreviations
+== Abreviations
 
 - AALCO Asian-African Legal Consultative Organization 
 - ASEAN Association of Southeast Asian Nations 
@@ -77,3 +86,12 @@ link:https://www.unidir.org/files/publications/pdfs/the-united-nations-cyberspac
 - UNOTC  United Nations Office of Counter-Terrorism 
 - UNU United Nations University US United States 
 - WSIS World Summit on the Information Society
+
+[appendix]
+== sweden
+
+.CIA world factbook sweden
+link:https://www.cia.gov/the-world-factbook/countries/sweden/[^]
+
+. 92% pop internet users
+. 9,251,773 million users approx
