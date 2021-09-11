@@ -33,47 +33,47 @@ link:https://www.unidir.org/files/publications/pdfs/the-united-nations-cyberspac
 [appendix]
 = Abreviations
 
-AALCO Asian-African Legal Consultative Organization 
-ASEAN Association of Southeast Asian Nations 
-ARF ASEAN Regional Forum BRIC Brazil, Russia, India, and China 
-CBM confidence-building measure 
-CI critical infrastructure 
-CEIP Carnegie Endowment for International Peace CTC Counter-Terrorism Committee  
-CTED Counter-Terrorism Committee Executive Directorate 
-CTITF Counter Terrorism Integrated Task Force 
-ECOSOC Economic and Social Council  
-EU European Union 
-G7 Group of Seven 
-G20 Group of 20 
-GFCE Global Forum on Cyber Expertise 
-GGE Group of Governmental Experts 
-IAEA International Atomic Energy Agency  
-IANA Internet Assigned Numbers Authority 
-ICANN Internet Corporation of Assigned Names and Numbers 
-ICT Information Communications Technology 
-IGF Internet Governance Forum 
-IoT Internet of things 
-IP Internet protocol 
-IT information technology 
-ITU International Telecommunication Union 
-ISIL Islamic State in Iraq and the Levant 
-IWG informal working group (OSCE) 
-MLAT Mutual Legal Assistance Treaty 
-NATO North Atlantic Treaty Organization 
-OAS Organization of American States  
-OECD Organization for Economic Co-operation and Development 
-OHCHR  Office of the High Commissioner for Human Rights 
-OSCE Organization for Security and Co-operation in Europe 
-SCO Shanghai Cooperation Organization 
-SDGs Sustainable Development Goals  
-UN United Nations 
-UNDESA United Nations Department of Economic and Social Affairs 
-UNDPA United Nations Department of Political Affairs 
-UNESCO United Nations Educational, Scientific and Cultural Organization 
-UNICRI  United Nations Interregional Crime and Justice Research Institute 
-UNIDIR  United Nations Institute for Disarmament Research 
-UNODA United Nations Office for Disarmament Affairs 
-UNODC United Nations Office on Drugs and Crime 
-UNOTC  United Nations Office of Counter-Terrorism 
-UNU United Nations University US United States 
-WSIS World Summit on the Information Society
+- AALCO Asian-African Legal Consultative Organization 
+- ASEAN Association of Southeast Asian Nations 
+- ARF ASEAN Regional Forum BRIC Brazil, Russia, India, and China 
+- CBM confidence-building measure 
+- CI critical infrastructure 
+- CEIP Carnegie Endowment for International Peace CTC Counter-Terrorism Committee  
+- CTED Counter-Terrorism Committee Executive Directorate 
+- CTITF Counter Terrorism Integrated Task Force 
+- ECOSOC Economic and Social Council  
+- EU European Union 
+- G7 Group of Seven 
+- G20 Group of 20 
+- GFCE Global Forum on Cyber Expertise 
+- GGE Group of Governmental Experts 
+- IAEA International Atomic Energy Agency  
+- IANA Internet Assigned Numbers Authority 
+- ICANN Internet Corporation of Assigned Names and Numbers 
+- ICT Information Communications Technology 
+- IGF Internet Governance Forum 
+- IoT Internet of things 
+- IP Internet protocol 
+- IT information technology 
+- ITU International Telecommunication Union 
+- ISIL Islamic State in Iraq and the Levant 
+- IWG informal working group (OSCE) 
+- MLAT Mutual Legal Assistance Treaty 
+- NATO North Atlantic Treaty Organization 
+- OAS Organization of American States  
+- OECD Organization for Economic Co-operation and Development 
+- OHCHR  Office of the High Commissioner for Human Rights 
+- OSCE Organization for Security and Co-operation in Europe 
+- SCO Shanghai Cooperation Organization 
+- SDGs Sustainable Development Goals  
+- UN United Nations 
+- UNDESA United Nations Department of Economic and Social Affairs 
+- UNDPA United Nations Department of Political Affairs 
+- UNESCO United Nations Educational, Scientific and Cultural Organization 
+- UNICRI  United Nations Interregional Crime and Justice Research Institute 
+- UNIDIR  United Nations Institute for Disarmament Research 
+- UNODA United Nations Office for Disarmament Affairs 
+- UNODC United Nations Office on Drugs and Crime 
+- UNOTC  United Nations Office of Counter-Terrorism 
+- UNU United Nations University US United States 
+- WSIS World Summit on the Information Society
