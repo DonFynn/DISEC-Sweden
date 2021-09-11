@@ -24,6 +24,8 @@ First comittee
 .UN counter terrorism cybersecurtity
 - link:https://www.un.org/counterterrorism/cybersecurity[^]
 
+==== MUN related 
+
 .hamburg MUN DISEC Prep 2018 see topic b pages 9-14 (plus links)
 link:http://hammun.de/wp-content/uploads/2018/10/DISEC-Study-Guide-Final-Version.pdf[^]
 
@@ -33,11 +35,37 @@ link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecu
 .SEMMUNA DISEC baground paper 4 pages
 link:http://www.semmuna.org/uploads/2/4/2/3/24230689/30_-_disec_-_cyber_security.pdf[^]
 
+.Vienna International Model United Nations (VIMUN): Committees - Topics - Team 2017
+link:http://afa.at/vimun/vimuncommittees2017.htm[^]
+
+.GÖMUN prep guide
+link:http://munsg.de/wp-content/uploads/Study-Guide-DISEC.pdf[^]
+
+.ODUMUNC 2013
+link:https://www.odu.edu/content/dam/odu/offices/mun/2013/disec/issue-brief-2013-disec-cyber-security-defining-cyber-terrorism-and-permissible-responses.pdf[^]
+
+==== further background
+
 .UNIDIR DISEC background and good information
 link:https://www.unidir.org/files/publications/pdfs/the-united-nations-cyberspace-and-international-peace-and-security-en-691.pdf[^]
 
 .Armscontrol org disec stuff
 link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecurity[^]
+
+==== Sweden Government
+
+.Swedisch stance to cybersecurity
+link:https://www.government.se/4ada5d/contentassets/d87287e088834d9e8c08f28d0b9dda5b/a-national-cyber-security-strategy-skr.-201617213[^]
+
+.Sweden’s Protective Security Act targets cyber risks
+link:https://www.computerweekly.com/news/252466148/Swedens-protective-security-act-targets-cyber-risks[^]
+
+.Sweden cybersecurity laws 2021
+link:https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/sweden[^]
+
+.Data Security and Cybercrime in Sweden 
+link:https://www.lexology.com/library/detail.aspx?g=7d2db8ee-e69c-43a9-ac66-408a9ef79622[^]
+
 
 
 [appendix]
