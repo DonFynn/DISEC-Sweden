@@ -68,6 +68,35 @@ link:https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/sweden[^
 link:https://www.lexology.com/library/detail.aspx?g=7d2db8ee-e69c-43a9-ac66-408a9ef79622[^]
 
 
+==== news and related
+
+.pegasus israel
+link:https://en.wikipedia.org/wiki/Pegasus_(spyware)[^]
+
+.fancy bear
+link:https://en.m.wikipedia.org/wiki/Fancy_Bear[^]
+
+.notpetya
+link:https://en.m.wikipedia.org/wiki/Petya_(malware)[^]
+
+.wired article on notpetya
+link:https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/[^]
+
+.china malware assesment us gov
+link:https://us-cert.cisa.gov/china[^]
+
+.spyware in china tax software
+link:https://www.nbcnews.com/tech/security/spyware-hidden-chinese-tax-software-was-probably-planted-nation-state-n1231975[^]
+
+.700million phones infected
+link:https://www.cyberscoop.com/android-malware-china-huawei-zte-kryptowire-blu-products/[^]
+
+.wikipedia cyberwarfare russia
+link:https://en.m.wikipedia.org/wiki/Cyberwarfare_by_Russia[^]
+
+.russia cyberwarfare
+link:https://en.m.wikipedia.org/wiki/Russian-Ukrainian_cyberwarfare[^]
+
 
 [appendix]
 == Abreviations
