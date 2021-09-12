@@ -55,7 +55,7 @@ link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecu
 
 ==== Sweden Government
 
-.Swedisch stance to cybersecurity
+.Swedish stance to cybersecurity
 link:https://www.government.se/4ada5d/contentassets/d87287e088834d9e8c08f28d0b9dda5b/a-national-cyber-security-strategy-skr.-201617213[^]
 
 .Sweden’s Protective Security Act targets cyber risks
@@ -65,7 +65,7 @@ link:https://www.computerweekly.com/news/252466148/Swedens-protective-security-a
 link:https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/sweden[^]
 
 .Sweden's managment of cybersecurity laws under the GDPR by the EU 
-link:https://www.itgovernance.eu/sv-se/eu-gdpr-compliance-se
+link:https://www.itgovernance.eu/sv-se/eu-gdpr-compliance-se [^]
 
 .Data Security and Cybercrime in Sweden 
 link:https://www.lexology.com/library/detail.aspx?g=7d2db8ee-e69c-43a9-ac66-408a9ef79622[^]
