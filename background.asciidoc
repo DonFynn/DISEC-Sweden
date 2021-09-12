@@ -31,7 +31,7 @@ First comittee
 link:http://hammun.de/wp-content/uploads/2018/10/DISEC-Study-Guide-Final-Version.pdf[^]
 
 .MUNUC prep on DISEC Cyber 2013 pages 26-39 plus bibliography
-link:https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecurity
+https://www.armscontrol.org/act/2013-09/un-takes-big-step-forward-cybersecurity
 
 .SEMMUNA DISEC baground paper 4 pages
 link:http://www.semmuna.org/uploads/2/4/2/3/24230689/30_-_disec_-_cyber_security.pdf[^]
