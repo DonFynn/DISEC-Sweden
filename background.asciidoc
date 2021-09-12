@@ -154,3 +154,22 @@ link:https://www.cia.gov/the-world-factbook/countries/sweden/[^]
 
 . 92% pop internet users
 . 9,251,773 million users approx
+
+
+[appendix]
+== CERT etc
+
+.carnegie mellon CERT    
+link:https://www.sei.cmu.edu/about/divisions/cert/index.cfm[^]
+
+.OWASP
+link:https://owasp.org[^]
+
+.US-CERT
+link:https://us-cert.cisa.gov[^]
+
+.SE-CERT
+link:https://www.cert.se[^]
+
+
+        
