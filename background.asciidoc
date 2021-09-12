@@ -64,6 +64,9 @@ link:https://www.computerweekly.com/news/252466148/Swedens-protective-security-a
 .Sweden cybersecurity laws 2021
 link:https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/sweden[^]
 
+.Sweden's managment of cybersecurity laws under the GDPR by the EU 
+link:https://www.itgovernance.eu/sv-se/eu-gdpr-compliance-se
+
 .Data Security and Cybercrime in Sweden 
 link:https://www.lexology.com/library/detail.aspx?g=7d2db8ee-e69c-43a9-ac66-408a9ef79622[^]
 
