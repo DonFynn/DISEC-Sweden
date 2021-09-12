@@ -97,6 +97,14 @@ link:https://en.m.wikipedia.org/wiki/Cyberwarfare_by_Russia[^]
 .russia cyberwarfare
 link:https://en.m.wikipedia.org/wiki/Russian-Ukrainian_cyberwarfare[^]
 
+.biden nist cisa critical infra order
+link:https://www.zdnet.com/article/biden-signs-memo-ordering-cisa-and-nist-to-develop-cybersecurity-performance-goals-for-critical-infrastructure/[^]
+
+.biden real shooting from cyber attack
+link:https://www.cpomagazine.com/cyber-security/biden-admin-cyber-attacks-could-start-a-real-shooting-war-cybersecurity-becoming-central-focus-of-national-security-and-critical-infrastructure-plans/[^]
+
+
+
 
 [appendix]
 == Abreviations
@@ -173,6 +181,9 @@ link:https://www.cert.se[^]
 
 .mitre attack
 link:https://attack.mitre.org[^]
+
+.mitre attack known groups and techniques
+link:https://attack.mitre.org/groups/[^]
 
 
                         
