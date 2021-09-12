@@ -185,5 +185,18 @@ link:https://attack.mitre.org[^]
 .mitre attack known groups and techniques
 link:https://attack.mitre.org/groups/[^]
 
+.ITU Global Cybersecurity Index
+Joint ALERT Cyberdrill for Europe & CIS regions,Chisinau 2017
+link:https://www.itu.int/en/ITU-D/Cybersecurity/Documents/Moldova17_Presentations/MoldovaCD17RAwotar_1session.pdf[^]
 
+.World Bank Launches Global Cybersecurity Fund
+link:https://www.bankinfosecurity.com/world-bank-launches-global-cybersecurity-fund-a-17341[^]
+
+.EC-council sweden with blirb on why
+link:https://www.eccouncil.org/sweden/[^]
+
+
+
+
+         
                         
