@@ -79,6 +79,9 @@ link:https://www.lexology.com/library/detail.aspx?g=7d2db8ee-e69c-43a9-ac66-408a
 
 ==== news and related
 
+.Un measures on cybersecurity
+link:https://www.unodc.org/unodc/en/cybercrime/global-programme-cybercrime.html
+
 .pegasus israel
 link:https://en.wikipedia.org/wiki/Pegasus_(spyware)[^]
 
